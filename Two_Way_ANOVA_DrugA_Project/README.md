@@ -7,7 +7,7 @@ This project examines the impact of Drug A on fasting blood sugar levels using a
 [View PDF](Project_Dataset.txt)
 
 🐍 **Dataset & Analysis Code:**  
-[View Python File](Effect_of_Drug_A_on_Fasting_Sugar_Two_Way_ANOVA.pdf)
+[View Python File](DrugA_FastingSugar_TwoWayANOVA.pdf)
 
 ### Tools & Methods
 - Python
