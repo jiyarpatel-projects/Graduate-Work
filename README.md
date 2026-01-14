@@ -7,5 +7,5 @@ Skills: SAS Programming, Statistical Analysis, ANOVA, Data Visualization, Health
 
 Analysis examining the impact of Drug A on fasting sugar levels using two-way ANOVA methodology. Demonstrates proficiency in SAS programming and statistical hypothesis testing for clinical research applications.
 
-View Project Files [here](Effect_of_Drug_A_on_Fasting_Sugar_Two_Way_ANOVA.pdf)→
+View Project File [here](Effect_of_Drug_A_on_Fasting_Sugar_Two_Way_ANOVA.pdf)→
  
