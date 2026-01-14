@@ -1,6 +1,6 @@
 # Graduate-Work
 Coursework done through Rutgers University
-# The Effect of Drug A on Fasting Sugar Levels: A Two-Way ANOVA Analysis
+# 1. The Effect of Drug A on Fasting Sugar Levels: A Two-Way ANOVA Analysis
 Course: Introduction to SAS | August 2025
 
 Skills: SAS Programming, Statistical Analysis, ANOVA, Data Visualization, Healthcare Data
