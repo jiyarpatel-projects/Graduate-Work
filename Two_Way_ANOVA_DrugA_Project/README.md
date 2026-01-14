@@ -27,6 +27,6 @@ Drug A, Placebo) across all three sites, and does the site location
 influence treatment effectiveness?"
 
 ### Key Findings
-Treatment Group → significant (reject null)
-Site → not significant (accept null)
-Treatment x Site → (reject null)
+- Treatment Group → significant (reject null)
+- Site → not significant (accept null)
+- Treatment x Site → (reject null)
